@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
